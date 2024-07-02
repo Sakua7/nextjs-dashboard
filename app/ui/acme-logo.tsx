@@ -11,3 +11,5 @@ export default function AcmeLogo() {
     </div>
   );
 }
+
+// TODO Image component 작업중
